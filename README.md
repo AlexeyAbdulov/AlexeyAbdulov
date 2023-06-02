@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexey-Abdulov-Tymphany
+- 👋 Hi, I’m Alexey Abdulov
 - 👀 I’m interested in cats
 - 🌱 I’m currently learning cats
 - 💞️ I’m looking to collaborate on cats
